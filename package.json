@@ -1,0 +1,16 @@
+{
+  "name": "bitbucket-test-repo",
+  "version": "1.0.0",
+  "description": "bitbucket test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fakedalia@bitbucket.org/fakedalia/bitbucket-test-repo.git"
+  },
+  "author": "daliadefelipee",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/fakedalia/bitbucket-test-repo#readme"
+}
